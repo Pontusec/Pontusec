@@ -8,7 +8,7 @@
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" /> 
  
--   <a href="https://pontusec.github.io/"><代码><img height="20" width="50" src="./images/juejin.png"></code></a>：优秀作者，发表了25篇技术文章，15万阅读。 
+-   <a href="https://pontusec.github.io/"><code><img height="20" width="50" src="./images/docker.png"></code></a>：优秀作者，发表了25篇技术文章，15万阅读。 
 
 ### **技术栈:**
 
@@ -25,7 +25,7 @@
 
 ### 开源项目
 
--   <a href="https://pontusec/pocsuit3"><code><img height="20" width="50" src="./images/juejin.png"></代码></a>：编写和收集poc.
+-   <a href="https://pontusec/pocsuit3"><code><img height="20" width="50" src="./images/docker.png"></代码></a>：编写和收集poc.
 <br><br><br> 
 
 ### Github 活跃度
