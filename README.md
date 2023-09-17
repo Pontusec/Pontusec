@@ -5,8 +5,8 @@
 热爱生活、热爱技术。工作经验3年。喜欢参与一些开源项目的讨论。
 
 ### **社交主页：**
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" /> 
--   <a href="https://pontusec.github.io/"><code><img height="20" width="50" src="./images/docker.png"></code></a>：优秀作者，发表了25篇技术文章，15万阅读。 
+ <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />  
+-   <a href="https://pontusec.github.io/"></a>：优秀作者，发表了25篇技术文章，15万阅读。  
 ### **技术栈:**
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
 <a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
