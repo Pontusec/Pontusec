@@ -13,10 +13,6 @@
 
 ### **技术栈:**
 
-<a href="https://v3.cn.vuejs.org"><代码><img height="20" src="./images/vue.png"></代码></a>
-<a href="https://reactjs.org/"><代码><img height="20" src="./images/react.svg"></代码></a>   
-<a href="https://cn.vitejs.dev"><代码><img height="20" src="./images/vite.png"></代码></a> 
-<a href="https://www.python.org"><代码><img height="20" src="./images/tailwindcss.png"></代码></a> 
 <a href="https://go.dev/"><代码><img height="20" src="./images/golang.png"></代码></a>
 <a href="https://www.docker.com"><代码><img height="20" src="./images/docker.png"></代码></a> 
 
