@@ -12,7 +12,7 @@
 ### **技术栈:**
 
 <a href="https://www.python.org/"><code><img height="20" src="./images/python1.jpg"></code></a>     
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>    
+<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>     
 <a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>   
 <a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a> 
 <a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a> 
@@ -23,7 +23,7 @@
 
 ### 开源项目
 
- -   <a href="https://pontusec.github.io/"><code><img width="400" height="100%" src="./images/image.png"></code></a>
+ -   <a href="https://pontusec.github.io/"><code><img width="300" height="100%" src="./images/image.png"></code></a> 
 <br><br><br> 
        
 ### Github 活跃度
