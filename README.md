@@ -7,7 +7,7 @@
 ### **社交主页：**
 <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />      
 
--   <a href="https://pontusec.github.io/"><code><img height="20" width="20" src="./images/python1.jpg"></code></a>：优秀作者，发表了 30 篇技术文章，15万阅读。  
+-   <a href="https://pontusec.github.io/"><code><img height="20" width="20" src="./images/python1.jpg"></code></a>：优秀作者，发表了 30 篇技术文章，15万阅读。   
 
 ### **技术栈:**
 
@@ -23,7 +23,7 @@
 
 ### 开源项目
 
- -   <a href="https://pontusec.github.io/"><code><img width="300" height="100" src="./images/image.png"></code></a>     
+<a href="https://pontusec.github.io/"><code><img width="300" height="100" src="./images/image.png"></code></a>      
 <br><br><br> 
        
 ### Github 活跃度
