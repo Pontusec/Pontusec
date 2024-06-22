@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 渗透测试工程师—pontusec
+## pontusec
 
 热爱生活、热爱技术。工作经验3年。喜欢参与一些开源项目的讨论。
 
